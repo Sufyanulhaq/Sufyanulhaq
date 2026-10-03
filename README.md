@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/-sufyanulhaq.com-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://sufyanulhaq.com)
 [![Logiccel](https://img.shields.io/badge/-Logiccel-111827?style=flat-square&logoColor=white)](https://logiccel.com)
-[![Upwork](https://img.shields.io/badge/-Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sufyanulhaq11)
+[![Upwork](https://img.shields.io/badge/-Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013b81e78082f94d09)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyanulhaq/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@sufyanulhaq.com)
 
@@ -121,5 +121,5 @@ flowchart LR
 - **Email:** [hello@sufyanulhaq.com](mailto:hello@sufyanulhaq.com)
 - **Website:** [sufyanulhaq.com](https://sufyanulhaq.com)
 - **Company:** [logiccel.com](https://logiccel.com)
-- **Upwork:** [Sufyan Ul H.](https://www.upwork.com/freelancers/sufyanulhaq11)
+- **Upwork:** [Sufyan Ul H.](https://www.upwork.com/freelancers/~013b81e78082f94d09)
 - **LinkedIn:** [Sufyan Ul Haq](https://www.linkedin.com/in/sufyanulhaq/)
