@@ -36,7 +36,7 @@ Open to freelance projects and contract roles.
 | Project | What it is | Built with |
 |---|---|---|
 | [AI Docs Assistant](https://github.com/Sufyanulhaq/ai-docs-assistant) | Chat assistant that answers from your docs with cited sources. Works with Claude, OpenAI or offline. 58 automated tests. | Python, FastAPI, Next.js, TypeScript |
-| [Pulse](https://github.com/Sufyanulhaq/pulse) ([live](https://pulse-sufyanulhaq.vercel.app)) | An animated landing page concept with full reduced motion support. | React, Vite, Motion |
+| [Pulse](https://github.com/Sufyanulhaq/pulse) ([live](https://pulse-sufyanulhaq.vercel.app)) | A full focus timer product: insights, an assistant that cites your own data, private team stats, signed webhooks and an API. 100 automated tests. | React, Node.js, SQLite, Claude API |
 | [Roof.info](https://github.com/Sufyanulhaq/ROOF) | Review and information site for roof shingles. | Laravel, PHP, MySQL |
 | [This portfolio](https://github.com/Sufyanulhaq/sufyanulhaq-website) | My personal site, with content managed in a CMS. | Next.js, TypeScript, Sanity |
 | [Hotel Booking Website](https://github.com/Sufyanulhaq/Hotel-Booking-Website-Working-Code-master) | Search and book hotel rooms online. | PHP, MySQL |
